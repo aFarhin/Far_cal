@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(211, 71, 85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    border: 1px solid rgb(66, 6, 6);
+    padding: 30px;
+    background-color:  pink;
+}
+
